@@ -1,0 +1,532 @@
+{
+  "basics": {
+    "name": "Fabien CLAUDE",
+    "label": "Développeur Web Fullstack",
+    "image": "/portrait.jpg",
+    "email": "fabien.claude.11@gmail.com",
+    "phone": "0671365697",
+    "url": "fabienclaude.github.io",
+    "summary": "Développeur web depuis plus de 10 ans et désireux de consolider mes compétences, je recherche une entreprise dans le cadre d'un contrat de professionnalisation afin de contribuer au travers de mon expérience acquise au travers de missions variées tout en partageant mes futures évolutions avec l'équipe de l'entreprise.",
+    "theme": "default",
+    "location": {
+      "address": "",
+      "postalCode": "34000",
+      "city": "Montpellier",
+      "countryCode": "FR",
+      "region": "France"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "fabien-claude-136baa62",
+        "url": "https://www.linkedin.com/in/fabien-claude-136baa62/"
+      },
+      {
+        "network": "GitHub",
+        "username": "fabienClaude",
+        "url": "https://github.com/fabienClaude"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Activecom",
+      "position": "Développeur Web",
+      "location_type": "Présentiel",
+      "location": "Bischeim, France",
+      "type": "CDI",
+      "url": "https://www.activecom.fr/",
+      "startDate": "2025-09-01",
+      "endDate": "2025-12-01",
+      "summary": "Maintenance et ajout de fonctionnalités pour l’application de communication via e-mail de l’entreprise",
+      "highlights": [
+        "Mise en place d'un socle de démonstration de l'authentification Oauth avec Keycloak"
+      ],
+      "responsibilities": [
+        "Maintenance et ajout de fonctionnalités de l’application basée sur Symfony et ReactJS: gestion de carnets d’adresses, mise en page des e-mails, planification et suivi des envois",
+        "Veille technique via démonstrations et revues de code: authentification Oauth via OpenIDConnect, développement assisté par IA via ClaudeCode, API Rest via APIPlatform",
+        "Maintenance du flux d’intégration continue via Jenkins",
+        "Mise en place de tests unitaires"
+      ],
+      "achievements": [
+        "Développer et maintenir des fonctionnnalités de l'application basé sur Symfony et React, en collaboration avec les développeurs pour les compléments techniques (front-end, devops) et le support Niveau 1 pour identifier les anomalies"
+      ],
+      "skills": [
+        "Symfony",
+        "PHP",
+        "MySQL",
+        "Jenkins",
+        "PHPUnit",
+        "GitHub"
+      ]
+    },
+    {
+      "name": "Agence Appy",
+      "position": "Développeur Web",
+      "location_type": "Hybride",
+      "location": "Toulouse, France",
+      "type": "CDI",
+      "url": "https://www.agence-appy.fr/",
+      "startDate": "2025-12-01",
+      "endDate": "2025-06-01",
+      "summary": "Maintenance et ajout de fonctionnalités pour les applications dédiées au client principal de l’agence, consistant en un CRM interagissant avec un site boutique",
+      "highlights": [
+        "Mise en place d'une migration de boutique web vers Shopify"
+      ],
+      "responsibilities": [
+        "Maintenance et ajout de fonctionnalités sur le CRM et la boutique web liée basés sur Laravel et VueJS: gestion des stocks produits, commandes et suivi des paiements",
+        "Mise en place d’un système de tracking de colis via l’API SendCloud",
+        "Migration de la boutique web vers une boutique Shopify et mise en place d’une connexion avec le CRM via une API GraphQL",
+        "Assistance directe client",
+        "Planification et estimation des tâches"
+      ],
+      "achievements": [
+        "Mise en place d'une migration de boutique web vers Shopify"
+      ],
+      "skills": [
+        "Laravel",
+        "PHP",
+        "Gitlab",
+        "MySQL",
+        "Docker",
+        "Vue",
+        "GraphQL"
+      ]
+    },
+    {
+      "name": "M-Target",
+      "position": "Développeur Web",
+      "location_type": "Présentiel",
+      "location": "Labège, France",
+      "type": "CDI",
+      "url": "https://www.m-target.com/",
+      "startDate": "2023-12-01",
+      "endDate": "2024-03-01",
+      "summary": "Maintenance et ajout de fonctionnalités pour les applications existantes de télécommunications de l’entreprise",
+      "highlights": [
+        "Montée en compétence sur l'intégration continue"
+      ],
+      "responsibilities": [
+        "Maintenance des applications Laravel de planification de messages et de gestion de carnet d’adresses et analyse des failles critiques",
+        "Veille technique pour un socle applicatif à jour",
+        "Mise en place de l’intégration continue Gitlab-CI et de standardisation de code PSR12 avec PHP-CS"
+      ],
+      "achievements": [
+        "Montée en compétence sur l'intégration continue"
+      ],
+      "skills": [
+        "Laravel",
+        "PHP",
+        "Jira",
+        "Gitlab",
+        "PHP-CS",
+        "Docker",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "ECOFINANCE",
+      "position": "Développeur Web",
+      "location_type": "Hybride",
+      "location": "Blagnac, France",
+      "type": "Alternance,CDI",
+      "url": "https://www.ecofinance.fr/",
+      "startDate": "2015-10-01",
+      "endDate": "2023-12-01",
+      "summary": "Développement d’applications web aussi bien en interne pour aider les consultants à appuyer leurs expertises en matière de fiscalité qu’en externe pour que les clients aient des outils directement utilisables par eux",
+      "highlights": [
+        "Création de Cmagic, application Web basée sur Symfony permettant aux collectivités de gérer directement leur fiscalité"
+      ],
+      "responsibilities": [
+        "Création, mise à jour technique et maintenance d’applications Web via Symfony: chargement et consultation de données, gestion de prestations d’expertise, gestion de facturation",
+        "Suivi des besoins et de l’aspect métier des applications avec les spécialistes concernés pour assurer la pertinence des applications face à l’actualité politique et juridique française et la justesse de la base de données en fonction des fichiers standardisés",
+        "Mise en place et application d’un environnement de cartographie Web avec l’environnement QGIS pour une représentation visuelle et interactive des données demandées par les clients",
+        "Mise en place d’outils d’éditions de documents aux formats Excel, Wordet PDF: exports de données, rapports d’expertises, documents officiels (formulaires CERFA)",
+        "Automatisation et optimisation de traitement continu de données MySQL et PostGreSQL: file d’attente, priorisation, suivi des performances",
+        "Traitement ponctuel de données via des flux créés avec le logiciel Talend",
+        "Mise en place d’environnements de tests pour une validation des projets par les spécialistes métier dans un contexte similaire à l’environnement de production (Apache/Debian)",
+        "Documentation, vulgarisation et transmission de compétences via Confluence"
+      ],
+      "achievements": [
+        "Création de Cmagic, application Web basée sur Symfony permettant aux collectivités de gérer directement leur fiscalité"
+      ],
+      "skills": [
+        "Symfony",
+        "PHP",
+        "Bootstrap",
+        "JQuery",
+        "Gitlab",
+        "MySQL",
+        "SQLServer",
+        "PostGreSQL",
+        "QGIS Server",
+        "Debian",
+        "Leaflet",
+        "Talend",
+        "Java",
+        "GLPI",
+        "Zammad",
+        "Confluence"
+      ]
+    },
+    {
+      "name": "ADHIS",
+      "position": "Développeur Web",
+      "location_type": "Présentiel",
+      "location": "Toulouse, France",
+      "type": "Alternance",
+      "url": "https://addevmaterials.com/",
+      "startDate": "2014-09-01",
+      "endDate": "2015-09-01",
+      "summary": "Maintenance du CRM via l'ajout de fonctionnalités et la maintenance du catalogue produit",
+      "highlights": [
+        "Création d‘un portail de consultation de statistiques basées sur les données commerciales du CRM"
+      ],
+      "responsibilities": [
+        "Création d‘un portail de consultation de statistiques",
+        "Maintenance du CRM Sage X3"
+      ],
+      "achievements": [
+        "Création d‘un portail de consultation de statistiques basées sur les données commerciales du CRM"
+      ],
+      "skills": [
+        "ASP Classic",
+        "Sage X3"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "ISTEF",
+      "area": "Toulouse",
+      "studyType": "Master M1 Concepteur Web",
+      "startDate": "2014-09-01",
+      "endDate": "2016-09-01"
+    },    {
+      "institution": "IUT Paul Sabatier",
+      "area": "Toulouse",
+      "studyType": "Licence professionnelle Développement et Qualité Logiciel",
+      "startDate": "2013-09-01",
+      "endDate": "2014-06-01"
+    },    {
+      "institution": "IUT Paul Sabatier",
+      "area": "Toulouse",
+      "studyType": "DUT Informatique",
+      "startDate": "2007-09-01",
+      "endDate": "2009-09-01"
+    }
+  ],
+  "certificates": [],
+  "skill_categories": [
+    {
+      "name": "Programmation"
+    },
+    {
+      "name": "Base de données"
+    },
+    {
+      "name": "Intégration continue"
+    },
+    {
+      "name":"Suivi de projet"
+    }
+  ],
+  "skills": [    
+    {
+      "name": "HTML",
+      "category": "Programmation",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "Symfony",
+      "category": "Programmation",
+      "level": "Expert",
+      "keywords": [
+        "PHP",
+        "Framework"
+      ]
+    },
+    {
+      "name": "PHP",
+      "category": "Programmation",
+      "level": "Expert",
+      "keywords": [
+        "Web Development",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Laravel",
+      "category": "Programmation",
+      "level": "Intermediate",
+      "keywords": [
+        "PHP",
+        "Framework"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "category": "Programmation",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "JQuery",
+      "category": "Programmation",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "Node",
+      "category": "Programmation",
+      "level": "Basic",
+      "keywords": [
+        "Web Development",
+        "Backend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "category": "Programmation",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "Webpack",
+      "category": "Programmation",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "React",
+      "category": "Programmation",
+      "level": "Basic",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "Vue",
+      "category": "Programmation",
+      "level": "Basic",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "category": "Programmation",
+      "level": "Basic",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "Webpack",
+      "category": "Programmation",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "category": "Programmation",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "category": "Base de données",
+      "level": "Expert",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "SQLServer",
+      "category": "Base de données",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "PostGreSQL",
+      "category": "Base de données",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Gitlab",
+      "category": "Intégration continue",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "Git",
+      "category": "Intégration continue",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "GitLabCI",
+      "category": "Intégration continue",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "Jenkins",
+      "category": "Intégration continue",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "Zammad",
+      "category": "Suivi de projet", 
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "Confluence",
+      "category": "Suivi de projet", 
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "Jira",
+      "category": "Suivi de projet", 
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "Linear",
+      "category": "Suivi de projet", 
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Cinéma d'animation"
+    },
+    {
+      "name": "Modélisme"
+    },
+    {
+      "name": "Aéronautique"
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Smith",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Cmagic",
+      "isActive": true,
+      "description": "Application web d'exploitation fiscale réalisée pour le compte d'Ecofinance",
+      "highlights": [
+        "Réalisée avec Symfony, JQuery et Bootstrap",
+        "Recherche de données à grand volume, gestion de documents et cartographie web"
+      ],
+      "url": "https://cmagic.ecofinance.fr/"
+    },
+    {
+      "name": "Demo Symfony",
+      "isActive": true,
+      "description": "Socle de démonstration des fonctionnnalités de Symfony",
+      "highlights": [
+        "Réalise avec Symfony 8.1, React et Tailwind"
+      ],
+      "github": "https://github.com/fabienClaude/demo-symfony"
+    }
+  ]
+}
