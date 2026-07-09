@@ -222,7 +222,7 @@
       "name": "Programmation"
     },
     {
-      "name": "Base de données"
+      "name": "Base de données et migrations"
     },
     {
       "name": "Intégration continue"
@@ -369,7 +369,7 @@
     },
     {
       "name": "MySQL",
-      "category": "Base de données",
+      "category": "Base de données et migrations",
       "level": "Expert",
       "keywords": [
         "Databases",
@@ -380,7 +380,7 @@
     },
     {
       "name": "SQLServer",
-      "category": "Base de données",
+      "category": "Base de données et migrations",
       "level": "Intermediate",
       "keywords": [
         "Databases",
@@ -391,7 +391,18 @@
     },
     {
       "name": "PostGreSQL",
-      "category": "Base de données",
+      "category": "Base de données et migrations",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Talend",
+      "category": "Base de données et migrations",
       "level": "Intermediate",
       "keywords": [
         "Databases",

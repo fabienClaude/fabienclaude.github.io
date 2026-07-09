@@ -59,11 +59,6 @@ const profilesInfo = profiles.map(({ network, url }) => {
 });
 ---
 
-<footer id="normal-footer" class="no-print flex flex-col gap-2">
-	<div>
-		Press <kbd>Cmd</kbd> + <kbd>K</kbd> to open the command palette.
-	</div>
-</footer>
 
 <div class="footer-button no-print">
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-command" width="32" height="32" viewBox="0 0 24 24" stroke-width="1.5" stroke="#777" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -122,23 +117,6 @@ const profilesInfo = profiles.map(({ network, url }) => {
 			},
 			...data,
 		]);
-
-		const footerButtons = document.querySelectorAll(".footer-button");
-		footerButtons.forEach((button) => {
-			button.addEventListener("click", () => {
-				var event = new KeyboardEvent("keydown", {
-					key: "K",
-					code: "KeyK",
-					keyCode: 75,
-					which: 75,
-					ctrlKey: true,
-					altKey: false,
-					shiftKey: false,
-					metaKey: false,
-				});
-				document.dispatchEvent(event);
-			});
-		});
 	}
 
 	// Ensure DOM is ready before initialising HotKeyPad

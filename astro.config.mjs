@@ -11,6 +11,9 @@ export default defineConfig({
       fallbackType: "rewrite"
     }
   },
+  devToolbar: {
+    enabled: false
+  },
   site: 'https://fabienclaude.github.io',
   trailingSlash: "always",
   vite: {
